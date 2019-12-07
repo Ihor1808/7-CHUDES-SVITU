@@ -1,0 +1,24 @@
+body {
+    background-image: url(machupickchu1.jpg);
+}
+
+.zagolovok3 {
+	color:#FF4100;
+    font-family: cursive;
+    font-size: 126px;
+    margin-left: 300px;
+    opacity: 0.9;
+}
+
+.text2 {
+	color:#000000;
+    font-family: segoe script;
+    font-size: 18px;
+    margin-right:100px;
+    margin-left:100px;
+}
+.golovna {
+    color: #050505;
+    font-size:24px;
+    margin-left:600px;
+}

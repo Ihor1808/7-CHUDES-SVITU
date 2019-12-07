@@ -1,0 +1,31 @@
+body {
+	background-image: url(tajmahal1.jpg);
+}
+.zagolovok5 {
+    color:#0CFF00;
+    font-family: cursive;
+    font-size: 125px;
+    margin-top: 25px;
+    margin-left: 250px;
+    opacity: 0.9;
+}
+.text2 {
+	color:#020034;
+    font-family: Franklin Gothic Medium;
+    font-size: 16px;
+    margin-right:100px;
+    margin-left:100px;
+}
+.text3 {
+    color:#020034;
+    font-family: Franklin Gothic Medium;
+    font-size: 16px;
+    margin-top:160px;
+    margin-right: 50px;
+    margin-left:50px;
+}
+.golovna {
+    color: #050505;
+    font-size:24px;
+    margin-left:600px;
+}

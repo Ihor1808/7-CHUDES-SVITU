@@ -1,0 +1,34 @@
+body {
+    background-image: url(Колізей1.jpg); 
+}
+.kolizey2 {
+    color:#FF4100;
+    font-family: cursive;
+    font-size: 145;
+    margin-left: 625px;
+    opacity: 0.9;
+    text-decoration: none;
+}
+.text1 {
+	color:#0018FF;
+    font-family: segoe script;
+    font-size: 24;
+    margin-right:300px;
+
+}
+
+.image1{
+	height:300px;
+	margin-right: 200px;
+	margin-top:120px;
+}
+.conteiner{
+	display: flex;
+	flex-direction:row ;
+
+}
+.golovna {
+    color: #050505;
+    font-size:24px;
+    margin-left:850px;
+}

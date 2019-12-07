@@ -1,0 +1,87 @@
+body {
+    background-image: url(image1.jpg);
+} 
+
+.golovna {
+    color:#00FFCE;
+    font-family: cursive;
+    font-size: 145;
+    margin-top: 25px;
+    margin-left: 425px;
+    opacity: 0.9;
+}
+.kolizey {
+    color:#00FF2C;
+    font-family: cursive;
+    font-size: 105;
+    margin-top: 105px;
+    margin-left: 150px;
+    opacity: 0.9;
+}
+
+.zagolovok1 {
+    color:#FF4100;
+    font-family: cursive;
+    font-size: 105;
+    margin-top: 105px;
+    margin-left: 150px;
+    opacity: 0.9;
+    text-decoration: none;
+}
+
+.zagolovok2 {
+    color:#FF4100;
+    font-family: cursive;
+    font-size: 105;
+    margin-top: 105px;
+    margin-left: 150px;
+    opacity: 0.9;
+    text-decoration: none;
+}
+.zagolovok3 {
+    color:#FF4100;
+    font-family: cursive;
+    font-size: 105;
+    margin-top: 105px;
+    margin-left: 150px;
+    opacity: 0.9;
+    text-decoration: none;
+}
+.zagolovok4 {
+    color:#FF4100;
+    font-family: cursive;
+    font-size: 105;
+    margin-top: 105px;
+    margin-left: 150px;
+    opacity: 0.9;
+    text-decoration: none;
+}
+.zagolovok5 {
+    color:#FF4100;
+    font-family: cursive;
+    font-size: 105;
+    margin-top: 105px;
+    margin-left: 150px;
+    opacity: 0.9;
+    text-decoration: none;
+}
+.zagolovok6 {
+    color:#FF4100;
+    font-family: cursive;
+    font-size: 105;
+    margin-top: 105px;
+    margin-left: 150px;
+    opacity: 0.9;
+    text-decoration: none;
+}
+
+.zagolovok7 {
+    color:#FF4100;
+    font-family: cursive;
+    font-size: 105;
+    margin-top: 105px;
+    margin-left: 150px;
+    opacity: 0.9;
+    text-decoration: none;
+}
+

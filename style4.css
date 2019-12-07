@@ -1,0 +1,23 @@
+body {
+	background-image: url(petra.jpg);
+}
+.zagolovok4 {
+    color:#0CFF00;
+    font-family: cursive;
+    font-size: 145px;
+    margin-top: 25px;
+    margin-left: 450px;
+    opacity: 0.9;
+}
+.text2 {
+	color:#FBFF00;
+    font-family: segoe script;
+    font-size: 18px;
+    margin-right:100px;
+    margin-left:100px;
+}
+.golovna {
+    color: #050505;
+    font-size:24px;
+    margin-left:600px;
+}
